@@ -1,0 +1,15 @@
+I:\GEEKBRAINS\3. Языки программирования\Seminar8\Homework\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+I:\GEEKBRAINS\3. Языки программирования\Seminar8\Homework\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+I:\GEEKBRAINS\3. Языки программирования\Seminar8\Homework\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+I:\GEEKBRAINS\3. Языки программирования\Seminar8\Homework\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+I:\GEEKBRAINS\3. Языки программирования\Seminar8\Homework\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+I:\GEEKBRAINS\3. Языки программирования\Seminar8\Homework\task1\bin\Debug\net6.0\task1.exe
+I:\GEEKBRAINS\3. Языки программирования\Seminar8\Homework\task1\bin\Debug\net6.0\task1.deps.json
+I:\GEEKBRAINS\3. Языки программирования\Seminar8\Homework\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+I:\GEEKBRAINS\3. Языки программирования\Seminar8\Homework\task1\bin\Debug\net6.0\task1.dll
+I:\GEEKBRAINS\3. Языки программирования\Seminar8\Homework\task1\bin\Debug\net6.0\task1.pdb
+I:\GEEKBRAINS\3. Языки программирования\Seminar8\Homework\task1\obj\Debug\net6.0\task1.dll
+I:\GEEKBRAINS\3. Языки программирования\Seminar8\Homework\task1\obj\Debug\net6.0\refint\task1.dll
+I:\GEEKBRAINS\3. Языки программирования\Seminar8\Homework\task1\obj\Debug\net6.0\task1.pdb
+I:\GEEKBRAINS\3. Языки программирования\Seminar8\Homework\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+I:\GEEKBRAINS\3. Языки программирования\Seminar8\Homework\task1\obj\Debug\net6.0\ref\task1.dll
